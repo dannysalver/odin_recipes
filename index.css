@@ -1,0 +1,28 @@
+body {
+    background-image:url(img/tryitnow_GettyImages-1127515284_HR.jpg) ;
+}
+
+h1{
+    font-size: 100px;
+    color: antiquewhite;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.d-one{
+    margin: 100px 100px;
+}
+
+p{
+    font-size: 70px;
+    color:blanchedalmond;
+}
+
+.d-two{
+    margin:100px 300px
+}
+
+.d-three{
+    font-size: 60px;
+    color: blanchedalmond;
+    margin: 30px 200px;
+}
