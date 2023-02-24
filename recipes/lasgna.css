@@ -1,0 +1,78 @@
+h1{
+    font-size: 90px;
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:oblique;
+}
+
+body{
+    background-image: url(./img/leaves.webp);
+}
+
+.div-one{
+    width: 550px;
+    float: left;
+    font-size: 30px;
+    color: black;
+    border-right: solid;
+    border-right-width: 2px;
+    border-right-color: grey;
+    padding-right: 30px;
+}
+
+.div-two{
+    float: right;
+}
+
+img{
+    height: 550px;
+    width: 700px;
+    margin: 90px 60px 30px 30px ;
+}
+
+ul{
+    font-size: 30px;
+}
+
+.div-three{
+    margin-top: 300px;
+    float: right;
+    font-size: 20px;
+    border-left: solid;
+    border-left-width: 2px;
+    border-left-color: grey;
+    padding-left: 20px;
+}
+
+.p-one{
+    font-size: 70px;
+}
+
+li{
+    font-size: 30px;
+}
+
+.p-two{
+    font-size: 30px;
+}
+
+.p-three{
+    font-size: 30px;
+}
+
+.div-five{
+    float: left;
+    width: 500px;
+    margin-top: 100px;
+    border-right: solid;
+    padding-right: 20px;
+}
+.div-six{
+    float: right;
+}
+
+.img-one{
+    height: 550px;
+    width: 800px;
+    margin: 90px 60px 30px 30px;
+}
