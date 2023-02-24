@@ -1,28 +1,51 @@
 body {
-    background-image:url(img/tryitnow_GettyImages-1127515284_HR.jpg) ;
+    background-image:url(img/leaves.webp) ;
 }
 
 h1{
     font-size: 100px;
-    color: antiquewhite;
+    color: black;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
 .d-one{
-    margin: 100px 100px;
+    float: left;
+    width: 700px;
+    height: 200px;
+    font-size: 30px;
+    margin-bottom: 170px;
+    margin-left: 50px;
 }
 
-p{
-    font-size: 70px;
-    color:blanchedalmond;
+.p-one{
+    font-size: 40px;
 }
 
 .d-two{
-    margin:100px 300px
+    float: right;
+    border-left: solid;
+    border-left-width: 3px;
+    margin-top: 50px;
+    padding-left: 30px;
 }
 
-.d-three{
-    font-size: 60px;
-    color: blanchedalmond;
-    margin: 30px 200px;
+img{
+    height: 500px;
+    width: 700px;
+    margin: 50px 10px 100px 10px;
+}
+
+.div-three{
+    float: left;
+    color: black;
+    font-size: 30px; 
+    margin-left: 50px;
+}
+
+.p-two{
+    font-size: 40px;
+}
+
+.p-three{
+    font-size: 30px;
 }
